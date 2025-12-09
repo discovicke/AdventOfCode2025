@@ -1,3 +1,11 @@
+# Mina Advent of Code-lösningar
+
+Det här repo:t använder Advent of Code-templaten från encse som grund, främst för att få en smidig arbetsmiljö med automatiska hämtningar av input, lösningsskelett och verifiering.
+
+Mitt mål med Advent of Code är att utveckla mina C#-kunskaper genom att lösa riktiga problem, prova tekniker jag annars kanske inte hade stött på och utmana mig själv i logik, datastrukturer och algoritmer. Jag använder såklart hjälp och referenser när jag kör fast... AoC är ju lika mycket en utmanande lärandeprocess som en tävling!
+
+-----
+
 # Advent of Code
 This is a C# repository template for your [Advent of Code](https://adventofcode.com) solutions. I've been using this since 2015
 with [great success](https://github.com/encse/adventofcode). 
