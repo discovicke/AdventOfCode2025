@@ -19,8 +19,6 @@ class Solution : Solver {
             return (X: long.Parse(parts[0]), Y: long.Parse(parts[1]));
         }).ToArray();
         long maxArea = 0;
-        (long X, long Y) p1Max = (0, 0);
-        (long X, long Y) p2Max = (0, 0);
         // Jämför alla par av punkter
         for (int i = 0; i < points.Length; i++) {
             for (int j = i + 1; j < points.Length; j++) {
